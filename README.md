@@ -1,5 +1,5 @@
-# Seminar base
-#### A template for our presentations
+# Seminar #[index]: [author] - [topic]
+#### [description]
 
 ## Presentation
 See [/presentation](/presentation)
