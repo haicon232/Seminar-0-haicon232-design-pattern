@@ -1,4 +1,4 @@
-# Seminar #[index]: [author] - [topic]
+# Seminar #[week]: [author] - [topic]
 #### [description]
 
 ## Presentation
